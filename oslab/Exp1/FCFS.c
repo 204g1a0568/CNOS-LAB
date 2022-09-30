@@ -10,7 +10,7 @@ Date : 09-09-2022
 {
  int bt[20], wt[20], tat[20], i, n;
 float wtavg, tatavg;
-printf("\nEnter the number of processes -- ");
+printf("Enter the number of processes -- ");
 scanf("%d", &n);
 for(i=0;i<n;i++)
 {
