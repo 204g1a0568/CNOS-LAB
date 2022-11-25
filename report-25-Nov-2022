@@ -73,4 +73,388 @@ Script started on 2022-11-25 14:45:33+05:30 [TERM="xterm-256color" TTY="/dev/pts
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of LRU.c"`date`[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg program of LR[1PU.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C program of LRU[1P.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C program of LRU.[1Pc"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C program of LRU.c[1P"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C program of LRU.c"[1P`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C program of LRU.c"`[1Pdate`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C program of LRU.c"`d[1Pate`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C program of LRU.c"`da[1Pte`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C program of LRU.c"`dat[1Pe`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C program of LRU.c"`date[1P`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C" program of LRU.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[Cprogram of LRU.c"`date[1P`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc"`date[1P`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs"`date`u"`date`[Cc"`date`[C[Cc"`date`[C[C[Ce"`date`[C[C[C[Cs"`date`[C[C[C[C[Cs"`date`f"`date`u"`date`l"`date`l"`date`y"`date` "`date`e"`date`x"`date`e"`date`c"`date`u"`date`t"`date`r"`date`e"`date`[1P"`date`[1P"`date`e"`date`d"`date`
 [?2004lprogram of LRU.c is successfully executedFriday 25 November 2022 02:52:41 PM IST
 [?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.name "204g1 a0568"
-[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.name "204g1a0568"[C@"s"r"i"t"."a"c"."i"n"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "204g1a0[1P568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "204g1a05[1P68@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "204g1a056[1P8@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;3
+[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.name "204g1a0568"[C@"s"r"i"t"."a"c"."i"n"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "204g1a0[1P568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "204g1a05[1P68@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "204g1a056[1P8@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "204g1a0568[1P@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git add -A
+[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git commit =m[K[K-m "LRU.c is exe cuted successfully"
+[?2004l[master 8c67010] LRU.c is executed successfully
+ 3 files changed, 139 insertions(+)
+ create mode 100644 exp3/LRU.c
+ create mode 100644 report-25-Nov-2022
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v V[K[7mgithub_pat_11A2[27m[7mX[27m[7mYCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[27m[A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
+[?2004lPushing to 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
+fatal: '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' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v^M[K[7mgithub_pat_11A2X[27m[7mY[27m[7mCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[27m[A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
+[?2004lerror: unknown switch `g'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --repo <repository>   repository
+    --all                 push all refs
+    --mirror              mirror all refs
+    -d, --delete          delete refs
+    --tags                push tags (can't be used with --all or --mirror)
+    -n, --dry-run         dry run
+    --porcelain           machine-readable output
+    -f, --force           force updates
+    --force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --force-if-includes   require remote updates to be integrated locally
+    --recurse-submodules (check|on-demand|no)
+                          control recursive pushing of submodules
+    --thin                use thin pack
+    --receive-pack <receive-pack>
+                          receive pack program
+    --exec <receive-pack>
+                          receive pack program
+    -u, --set-upstream    set upstream for git pull/status
+    --progress            force progress reporting
+    --prune               prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --follow-tags         push missing but relevant tags
+    --signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --atomic              request atomic transaction on remote side
+    -o, --push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v [7mgithub_pat_11A2[27m[7mX[27m[7mYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[27m[A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
+[?2004lPushing to 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
+fatal: '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' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v[7mgithub_pat_11A2X[27m[7mY[27m[7mCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[27m[A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
+[?2004lerror: unknown switch `g'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --repo <repository>   repository
+    --all                 push all refs
+    --mirror              mirror all refs
+    -d, --delete          delete refs
+    --tags                push tags (can't be used with --all or --mirror)
+    -n, --dry-run         dry run
+    --porcelain           machine-readable output
+    -f, --force           force updates
+    --force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --force-if-includes   require remote updates to be integrated locally
+    --recurse-submodules (check|on-demand|no)
+                          control recursive pushing of submodules
+    --thin                use thin pack
+    --receive-pack <receive-pack>
+                          receive pack program
+    --exec <receive-pack>
+                          receive pack program
+    -u, --set-upstream    set upstream for git pull/status
+    --progress            force progress reporting
+    --prune               prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --follow-tags         push missing but relevant tags
+    --signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --atomic              request atomic transaction on remote side
+    -o, --push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v [7mgithub_pat_11A2[27m[7mX[27m[7mYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[27m[A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
+[?2004lPushing to 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
+fatal: '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' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v [7mghp_lmZsBvAUT6v[27m[7mO[27m[7mL1npM1Lb5v7MybNiGb1jn057[27m[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C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
+[?2004lPushing to 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
+fatal: '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' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v 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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit push -v[7mghp_lmZsBvAUT6vO[27m[7mL[27m[7m1npM1Lb5v7MybNiGb1jn057[27m[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C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
+[?2004lerror: unknown switch `g'
+usage: git push [<options>] [<repository> [<refspec>...]]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --repo <repository>   repository
+    --all                 push all refs
+    --mirror              mirror all refs
+    -d, --delete          delete refs
+    --tags                push tags (can't be used with --all or --mirror)
+    -n, --dry-run         dry run
+    --porcelain           machine-readable output
+    -f, --force           force updates
+    --force-with-lease[=<refname>:<expect>]
+                          require old value of ref to be at this value
+    --force-if-includes   require remote updates to be integrated locally
+    --recurse-submodules (check|on-demand|no)
+                          control recursive pushing of submodules
+    --thin                use thin pack
+    --receive-pack <receive-pack>
+                          receive pack program
+    --exec <receive-pack>
+                          receive pack program
+    -u, --set-upstream    set upstream for git pull/status
+    --progress            force progress reporting
+    --prune               prune locally removed refs
+    --no-verify           bypass pre-push hook
+    --follow-tags         push missing but relevant tags
+    --signed[=(yes|no|if-asked)]
+                          GPG sign the push
+    --atomic              request atomic transaction on remote side
+    -o, --push-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git push -v
+[?2004lPushing to https://github.com/204g1a0568/CNOS-LAB
+Username for 'https://github.com': 5204    204g1a0568
+Password for 'https://204g1a0568@github.com': 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 2 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 3.66 KiB | 1.22 MiB/s, done.
+Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
+POST git-receive-pack (3928 bytes)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/204g1a0568/CNOS-LAB
+   2248bb2..8c67010  master -> master
+updating local tracking ref 'refs/remotes/origin/master'
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ nano optimal.c
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                        optimal.c                                 [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[?12l[?25h[?25l[1;49H(B[0;7m*[22d(B[m[K[1;79H[2dprintf((B[0;1m[33m"Number of page faults : %d\n"[39m(B[m, pf);[3dpr=([32mfloat[39m(B[m)pf/n*100;[4dprintf((B[0;1m[33m"Page fault rate = %f \n"[39m(B[m, pr); getch();[6d}[7d[32mvoid[39m(B[m display()[8d{[9d[32mint[39m(B[m i; (B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[10dprintf((B[0;1m[33m"%d\t"[39m(B[m,fr[i]);[11dprintf((B[0;1m[33m"\n"[39m(B[m);[12d}[?12l[?25h[?25l[?12l[?25h[9d[?25l[?12l[?25h[6d[?25l[?12l[?25h[3d[?25l[?12l[?25h[2;22r[2;1H[2T[1;24r[2;1Hdisplay();[3d}[A[?25l[?12l[?25h7[2;22r8[3T[1;24r[2;1Hfr[index]=page[j];[3dpf++;[4d}[2d[?25l[?12l[?25h7[2;22r8[3T[1;24r[2;1H}[3d}[4d}[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H{[3dmax=lg[i];[4dindex=i;[2d{[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[3d{[4d(B[0;1m[33mif[39m(B[m(max<lg[i])[2;2H[?25l[?12l[?25h7[2;22r8[3T[1;24r[2;1H(B[0;1m[33mif[39m(B[m(found==0)[3d{[4dmax=lg[0]; index=0;[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H[35mbreak[39m(B[m;[3d}[4d}[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H{[3dindex=i;[4dfound = 1;[2d{[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[3d{[4d(B[0;1m[33mif[39m(B[m(lg[i]==0)[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H}[3d}[4dfound=0;[2d}[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1Hlg[i]=k-j;[3d[35mbreak[39m(B[m;[4d}[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[3;1H(B[0;1m[33mif[39m(B[m(fr[i]==page[k])[4d{[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H{[3d(B[0;1m[33mfor[39m(B[m(k=j+1;k<=n;k++)[4d{[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[3dlg[i]=0;[4d(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H}[3d(B[0;1m[33mif[39m(B[m(flag2==0)[4d{[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H[35mbreak[39m(B[m;[3d}[4d}[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[33mif[39m(B[m(fr[i]==-1)[3d{[4dfr[i]=page[j]; flag2=1;[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H{[3d(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[4d{[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H}[3d}[4d(B[0;1m[33mif[39m(B[m(flag1==0)[2d}[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H{[3dflag1=1; flag2=1;[4d[35mbreak[39m(B[m;[2d{[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[3d{[4d(B[0;1m[33mif[39m(B[m(fr[i]==page[j])[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[33mfor[39m(B[m(j=0;j<n;j++)[3d{[4dflag1=0; flag2=0;[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1Hscanf((B[0;1m[33m"%d"[39m(B[m,&m);[3d(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[4dfr[i]=-1; pf=m;[2ds[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[33mfor[39m(B[m(i=0;i<n;i++)[3dscanf((B[0;1m[33m"%d"[39m(B[m,&page[i]);[4dprintf((B[0;1m[33m"Enter no of frames: "[39m(B[m);[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1Hscanf((B[0;1m[33m"%d"[39m(B[m,&n);[4dprintf((B[0;1m[33m"Enter the reference string: "[39m(B[m);[2ds[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H[32mfloat[39m(B[m pr;[3dclrscr();[4dprintf((B[0;1m[33m"Enter length of the reference string: "[39m(B[m);[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H[32mint[39m(B[m i,j,page[20],fs[10];[3d[32mint[4d[39m(B[mmax,found=0,lg[3],index,k,l,flag1=0,flag2=0,pf=0;[2;2H[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1Hdisplay();[3d[32mvoid[39m(B[m main()[4d{[2d[?25l[?12l[?25h7[2;21r8[3T[1;24r[2;1H(B[0;1m[36m#include[33m<conio.h>[3d(B[0m[32mint[39m(B[m fr[3], n, m;[4d[32mvoid[2;2H[39m(B[m[?25l[?12l[?25h7[2;21r8M[1;24r[2;1H(B[0;1m[36m#include[33m<stdio.h>[C[39m(B[m[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[?25l[?12l[?25h[2;18H[?25l[?12l[?25h[3d[?25l[?12l[?25h[3;9H<conio.h[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h#includ[K[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h(B[0;1m[36m#[39m(B[m[K[?25l[?12l[?25h[K[?25l[3;22r[22;1H
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[2;18H[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4;5H[?25l[?12l[?25h[5;11H[?25l[?12l[?25h[6d)[?25l[?12l[?25h[7d{[?25l[?12l[?25h[8;18H[?25l[?12l[?25h[9;4H[?25l[?12l[?25h[10;18H[?25l[?12l[?25h[11;10H[?25l[?12l[?25h[12d[?25l[?12l[?25h [?25l7[13;21r8[13dM[1;24r[13;1H[?12l[?25h[?25l[13;22r[22;1H
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[12;9H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[12;22r[22;1H
+[1;24r[21;1Hfr[i]=-1; pf=m;[11;10H[?12l[?25h[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15;10H[?25l[?12l[?25h[16d[?25l[?12l[?25h[17d[?25l[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[20d[?25l[?12l[?25h[21d[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(j=0;j<n;j++)[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hflag1=0; flag2=0;[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(fr[i]==page[j])[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hflag1=1; flag2=1;[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(flag1==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(fr[i]==-1)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfr[i]=page[j]; flag2=1;[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(flag2==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hlg[i]=0;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(k=j+1;k<=n;k++)[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(fr[i]==page[k])[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hlg[i]=k-j;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfound=0;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(lg[i]==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hindex=i;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfound = 1;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(found==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hmax=lg[0]; index=0;[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(max<lg[i])[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hmax=lg[i];[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hindex=i;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfr[index]=page[j];[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hpf++;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hdisplay();[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"Number of page faults : %d\n"[39m(B[m, pf);[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hpr=([32mfloat[39m(B[m)pf/n*100;[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"Page fault rate = %f \n"[39m(B[m, pr); getch();[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[32mvoid[39m(B[m display()[10G[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[32mint[39m(B[m i; (B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"%d\t"[39m(B[m,fr[i]);[21;10H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"\n"[39m(B[m);[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[22;34H(B[0;7m[ Writing... ](B[m[1;49H(B[0;7m [79G(B[m[22;32H(B[0;7m[ Wrote 96 lines ](B[m[?12l[?25h[A[?25l[?12l[?25h[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ nano optimal.c[3Pgit push -v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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C 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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cithub_pat_11A2XYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Acommit -m "LRU.c is executed successfully"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconfig user.email "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho " program of LRU.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [18Pgcc LRU.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of LRU.c"`date`[1P.c"`date`[C[C[1P.c"`date`[C[1P.c"`date`o.c"`date`[Cp.c"`date`[C[Ct.c"`date`[C[C[Ci.c"`date`[C[C[C[Cm.c"`date`[C[C[C[C[Ca.c"`date`[C[C[C[C[C[Cl.c"`date`[C[C[C[C[C[C[C
+[?2004lCompiling program of optimal.cFriday 25 November 2022 03:10:42 PM IST
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ gcc optimsl.c[K[K[K[Kal.c
+[?2004l[01m[Koptimal.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Koptimal.c:88:40:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kgetch[m[K’; did you mean ‘[01m[Kgetc[m[K’? [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wimplicit-function-declaration-Wimplicit-function-declaration]8;;[m[K]
+   88 | printf("Page fault rate = %f \n", pr); [01;35m[Kgetch[m[K();
+      |                                        [01;35m[K^~~~~[m[K
+      |                                        [32m[Kgetc[m[K
+/usr/bin/ld: /tmp/cc86In1v.o: in function `main':
+optimal.c:(.text+0x474): undefined reference to `getch'
+collect2: error: ld returned 1 exit status
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ gedit optims[Kal.c
+[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ pico gedit optimal.c[2Pcc[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of optimal.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [13Pnano optimal.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[C[1P optimal.cp optimal.ci optimal.cc optimal.co optimal.c
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;32H(B[0;7m[ Read 96 lines ](B[m[H(B[0;7m  GNU nano 6.2                        optimal.c                                 [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d(B[0;1m[36m#include[33m<stdio.h>[3d(B[0m[32mint[39m(B[m fr[3], n, m;[4d[32mvoid[5d[39m(B[mdisplay();[6d[32mvoid[39m(B[m main()[7d{[8d[32mint[39m(B[m i,j,page[20],fs[10];[9d[32mint[10d[39m(B[mmax,found=0,lg[3],index,k,l,flag1=0,flag2=0,pf=0;[11d[32mfloat[39m(B[m pr;[12dprintf((B[0;1m[33m"Enter length of the reference string: "[39m(B[m);[13dscanf((B[0;1m[33m"%d"[39m(B[m,&n);[15dprintf((B[0;1m[33m"Enter the reference string: "[39m(B[m);[16d(B[0;1m[33mfor[39m(B[m(i=0;i<n;i++)[17dscanf((B[0;1m[33m"%d"[39m(B[m,&page[i]);[18dprintf((B[0;1m[33m"Enter no of frames: "[39m(B[m);[19dscanf((B[0;1m[33m"%d"[39m(B[m,&m);[20d(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[21dfr[i]=-1; pf=m;[2d[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[16d[?25l[?12l[?25h[17d[?25l[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[20d[?25l[?12l[?25h[21d[?25l[22d[K[?12l[?25h7[2;22r8
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(j=0;j<n;j++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hflag1=0; flag2=0;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(fr[i]==page[j])[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hflag1=1; flag2=1;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(flag1==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(fr[i]==-1)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfr[i]=page[j]; flag2=1;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(flag2==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hlg[i]=0;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(k=j+1;k<=n;k++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(fr[i]==page[k])[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hlg[i]=k-j;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfound=0;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(lg[i]==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hindex=i;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfound = 1;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[35mbreak[39m(B[m;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(found==0)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hmax=lg[0]; index=0;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H(B[0;1m[33mif[39m(B[m(max<lg[i])[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hmax=lg[i];[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hindex=i;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hfr[index]=page[j];[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hpf++;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hdisplay();[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"Number of page faults : %d\n"[39m(B[m, pf);[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hpr=([32mfloat[39m(B[m)pf/n*100;[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"Page fault rate = %f \n"[39m(B[m, pr); getch();[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[32mvoid[39m(B[m display()[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H{[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[32mint[39m(B[m i; (B[0;1m[33mfor[39m(B[m(i=0;i<m;i++)[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"%d\t"[39m(B[m,fr[i]);[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1Hprintf((B[0;1m[33m"\n"[39m(B[m);[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H}[?25l[?12l[?25h7[2;22r8[22d
+[1;24r[21;1H[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h7[2;22r8M[1;24r[2;1Hindex=i;[?25l[?12l[?25h7[2;21r8M[1;24r[2;1Hmax=lg[i];[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[16d[?25l[?12l[?25h[17d[?25l[?12l[?25h[18d[?25l[?12l[?25h[19d[?25l[?12l[?25h[20d[?25l[?12l[?25h[21d[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[14;48H[?25l[1;49H(B[0;7m*[79G(B[m[?12l[?25h[14;47H [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[42m [49m(B[m[K[?25l[22;34H(B[0;7m[ Writing... ](B[m[1;49H(B[0;7m [79G(B[m[22;32H(B[0;7m[ Wrote 96 lines ](B[m[?12l[?25h[14;40H[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ pico optimal.c[1@gedit[C[C[C[C[C[C[C[C[C[C[2Pcc[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ gcc optimal.c[1@pico[C[C[C[C[C[C[C[C[C[C[1@gedit[C[C[C[C[C[C[C[C[C[C[2Pcc[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of optimal.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [13Pnano optimal.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pgit push -v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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C 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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cithub_pat_11A2XYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Acommit -m "LRU.c is executed successfully"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconfig user.email "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.name "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cemail "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "LRU.c is executed successfully"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cpush -v 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Acommit -m "LRU.c is executed successfully"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconfig user.email "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho " program of LRU.c is executed successfully"`date`[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.c is ex[1P[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.c is exe[1P[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.c is exec[1P[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co.c is exe[1@c[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp.c is ex[1@e[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c is e[1@x[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci.c is [1@e[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm.c is[1@ [A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca.c i[1@s[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl.c [1@i[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l program of optimal.c is executed successfullyFriday 25 November 2022 03:12:48 PM IST
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a1/[K.out
+[?2004lbash: ./a1.out: No such file or directory
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a1.outecho " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a1.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./a1.outecho " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [14Pgcc
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@pico[C[C[C[C[C[C[C[C[C[C[1@gedit[C[C[C[C[C[C[C[C[C[C[2Pcc[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of optimal.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [13Pnano optimal.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pgit push -v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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C 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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cithub_pat_11A2XYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Acommit -m "LRU.c is executed successfully"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconfig user.email "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho " program of LRU.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lEnter length of the reference string: 2
+Enter the reference string: 2
+3
+Enter no of frames: 3
+2	-1	-1	
+2	3	-1	
+Number of page faults : 3
+Page fault rate = 150.000000 
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out1.outecho " program of optimal.c is executed successfully"`date`
+[?2004l program of optimal.c is executed successfullyFriday 25 November 2022 03:14:32 PM IST
+[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git configecho " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1.outecho " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [14Pgcc
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@pico[C[C[C[C[C[C[C[C[C[C[1@gedit[C[C[C[C[C[C[C[C[C[C[2Pcc[C[C[C[C[C[C[C[C[C[C[2@edit[C[C[C[C[C[C[C[C[C[C[1Ppico[C[C[C[C[C[C[C[C[C[C[1Pgcc[C[C[C[C[C[C[C[C[C[C[1@pico[C[C[C[C[C[C[C[C[C[C[1@gedit[C[C[C[C[C[C[C[C[C[C[2Pcc[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of optimal.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [13Pnano optimal.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pgit push -v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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C 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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cithub_pat_11A2XYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Acommit -m "LRU.c is executed successfully"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconfig user.email "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.name "204g1a0568"[K
+[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.name "204g1a0568"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1.outecho " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [14Pgcc
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@pico[C[C[C[C[C[C[C[C[C[C[1@gedit[C[C[C[C[C[C[C[C[C[C[2Pcc[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of optimal.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [13Pnano optimal.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pgit push -v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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C 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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cithub_pat_11A2XYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Acommit -m "LRU.c is executed successfully"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconfig user.email "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "program of LRU.c is successfully executed"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.name "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cemail "204g1a0568@srit.ac.in"
+[?2004l[?2004h]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ git config user.email "204g1a0568@srit.ac.in"[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cname "204g1a0568"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ echo " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ ./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1.outecho " program of optimal.c is executed successfully"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [14Pgcc
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@pico[C[C[C[C[C[C[C[C[C[C[1@gedit[C[C[C[C[C[C[C[C[C[C[2Pcc[C[C[C[C[C[C[C[C[C[Cecho "Compiling program of optimal.c"`date`[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [13Pnano optimal.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pgit push -v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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C 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[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cithub_pat_11A2XYCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[Agithub_pat_11A2XY[1PCRQ07Rd8zsJ86VId_Jd3bgrHPiHukWbgFbP0LzTnFprK0jXw1KL1TQbQPXPzEXZQG4NLPqXNQRU3[A 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[Agithub_pat_11A2XY[1PCRQ0D0EOX6pyuk0V_CuQurNcAlZ38CJnZLbKqyazCX6r9ZFQvbJI2FAQy56kU56N2AJRl7tlLKDu[A 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[Acommit -m "LRU.c is executed successfully"[K[A]0;srit@srit-HP-Pro-3090-MT: ~/204g1a0568/CNOS-LAB/exp3[01;32msrit@srit-HP-Pro-3090-MT[00m:[01;34m~/204g1a0568/CNOS-LAB/exp3[00m$ [C[C[C[Cadd -A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
